@@ -1,0 +1,30 @@
+# Site settings
+title: Bleh
+name: r00t
+email: you@example.com
+description: Code Concoctions. Research Papers. Stuff. # A simple, whitespace, helvetica based portfolio theme.
+baseurl: #
+url: # the base hostname & protocol for your site
+# twitter_username: twitter_username
+github_username: sameedali
+
+# Build settings
+markdown: kramdown
+
+highlighter: pygments
+
+# Pagination
+gems: [jekyll-paginate]
+paginate: 15
+paginate_path: "/blog/page:num/"
+
+# collections:
+#   portfolio:
+#     output: true
+#     permalink: /portfolio/:path/
+#   poetry:
+#     output: true
+#     permalink: /poetry/:path/
+
+
+exclude: ['samples']

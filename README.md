@@ -3,7 +3,6 @@ Forked from:
 https://github.com/bogoli/-folio.git
 
 Credits to the original author.
-=====
 
 The MIT License (MIT)
 

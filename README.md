@@ -2,7 +2,7 @@ Forked from:
 
 https://github.com/bogoli/-folio.git
 
-Credits to the original author.
+Credits to the original author (not the blog post contents).
 
 The MIT License (MIT)
 

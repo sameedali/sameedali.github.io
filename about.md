@@ -1,8 +1,11 @@
 ---
 layout: page
-title: about
+title: About
 permalink: /about/
 ---
 
+# Hi.
+
 Well. Um Hi.
+
 I code and stuff.

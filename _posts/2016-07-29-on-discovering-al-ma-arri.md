@@ -8,12 +8,12 @@ tags: Skepticism, Arabic, Islam, Poetry
 >
 > The tears of scorn and melancholy sore;
 >
->     I who am shatterred by the hand of doubt,
+> I who am shatterred by the hand of doubt,
 >
 > Like glass to be remoulded nevermore.
 >
->                                - LVI
->                                  The Luzumiyat of Abu'l-Ala Al Ma'arri
+>        - LVI
+>          The Luzumiyat of Abu'l-Ala Al Ma'arri
 
 It was an extremely pleasant surprise to discover him.
 

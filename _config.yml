@@ -11,7 +11,7 @@ github_username: sameedali
 # Build settings
 markdown: kramdown
 
-highlighter: rogue
+highlighter: rouge
 
 # Pagination
 gems: [jekyll-paginate]

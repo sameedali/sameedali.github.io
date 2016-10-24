@@ -15,13 +15,13 @@ tags: Skepticism, Arabic, Islam, Poetry
 >        - LVI
 >          The Luzumiyat of Abu'l-Ala Al Ma'arri
 
-It was an extremely pleasant surprise to discover him.
+It was a pleasant surprise to discover him.
 
 Al Ma'arri - the skeptic, the philosopher, the poet whose songs now remain buried in the tomes of history.
 
 I had the privilege of reading The Luzumiyat of Al-Ma'arri.
 
-It is remarkable how the message conveyed by his verses is still relevant to this day.
+It is remarkable how the message conveyed by his verses remains relevant to this day.
 
 I had the opportunity to acquaint myself with a few medieval Arab works, recently.
 

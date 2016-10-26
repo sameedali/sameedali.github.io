@@ -1,7 +1,7 @@
 # Site settings
 title: Bleh
 name: r00t
-email: you@example.com
+email: sameedali94@gmail.com
 description: Code Concoctions. Research Papers. Stuff. # A simple, whitespace, helvetica based portfolio theme.
 baseurl: #
 url: # the base hostname & protocol for your site
@@ -28,3 +28,4 @@ paginate_path: "/blog/page:num/"
 
 
 exclude: ['samples']
+include: ["_pages"]

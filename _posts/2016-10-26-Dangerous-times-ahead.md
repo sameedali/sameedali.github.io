@@ -2,7 +2,7 @@
 layout: post
 title: Dangerous times ahead
 tags: Pakistan, Politics
-published: true
+published: false
 ---
 
 > “The DPC has its own ideology, they are holding their programme on Oct 28. We cannot stop them but we did not invite them. We did not invite DPC or Shuhada Counil.” - [PTI](http://www.pakistantoday.com.pk/2016/10/25/national/pti-did-not-invite-dpc-banned-outfits-for-islamabad-lockdown-says-shah-mehmood/)
